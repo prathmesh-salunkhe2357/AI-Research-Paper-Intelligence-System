@@ -1,0 +1,11 @@
+sentence-transformers
+faiss-cpu
+transformers
+torch
+spacy
+keybert
+gradio
+numpy
+pandas
+scikit-learn
+PyMuPDF
