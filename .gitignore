@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Project generated files
+paper_embeddings.npy
+paper_faiss.index
+custom_ner_model/
+generated_embeddings/
+faiss_index/
+*.faiss
+
+# Colab temporary files
+/content/
+
+# Environment files
+.env
+
+# Optional model cache
+models/
+cache/
