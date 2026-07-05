@@ -51,9 +51,8 @@ AI-Research-Paper-Search-Engine/
 │
 └── images/
     ├── gradio.png
-    ├── search_results.png
-    ├── summary.png
-    ├── keywords.png
+    ├── entities.png
+    ├── semantic_search.png
     └── topic_cluster.png
 ```
 
